@@ -1,0 +1,86 @@
+placeID,mean_rating,rating,food_rating,service_rating,Rcuisine_American,Rcuisine_Armenian,Rcuisine_Bakery,Rcuisine_Bar,Rcuisine_Bar_Pub_Brewery,Rcuisine_Breakfast-Brunch,Rcuisine_Burgers,Rcuisine_Cafe-Coffee_Shop,Rcuisine_Cafeteria,Rcuisine_Chinese,Rcuisine_Contemporary,Rcuisine_Family,Rcuisine_Fast_Food,Rcuisine_Game,Rcuisine_International,Rcuisine_Italian,Rcuisine_Japanese,Rcuisine_Mexican,Rcuisine_Pizzeria,Rcuisine_Regional,Rcuisine_Seafood,Rcuisine_Vietnamese,parking_lot,price,smoking_area,alcohol,dress_code,other_services,area,franchise,ambience
+132560,0.5833333333333333,0.5,1.0,0.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,public,low,permitted,No_Alcohol_Served,informal,none,open,f,familiar
+132572,0.9777777777777776,1.0,1.0,0.9333333333333333,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,low,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132584,1.2777777777777777,1.3333333333333333,1.5,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132594,0.8,0.6,1.2,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,low,not permitted,No_Alcohol_Served,informal,none,open,f,familiar
+132608,1.0,1.0,1.1666666666666667,0.8333333333333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,low,permitted,No_Alcohol_Served,informal,none,open,t,quiet
+132609,0.6,0.6,0.6,0.6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,yes,low,not permitted,No_Alcohol_Served,informal,none,closed,t,quiet
+132613,1.1666666666666667,1.1666666666666667,1.3333333333333333,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yes,medium,permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132626,1.0833333333333333,1.25,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,yes,medium,none,No_Alcohol_Served,informal,none,closed,t,familiar
+132667,1.5,1.25,2.0,1.25,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,none,No_Alcohol_Served,informal,none,closed,t,familiar
+132706,1.0,0.75,1.25,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132715,0.8333333333333334,1.0,1.0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,low,none,No_Alcohol_Served,informal,none,open,f,quiet
+132717,1.2222222222222223,1.3333333333333333,1.3333333333333333,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,public,medium,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132723,1.3333333333333333,1.4166666666666667,1.3333333333333333,1.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,medium,section,Full_Bar,informal,none,closed,f,familiar
+132732,0.8333333333333334,0.625,0.875,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,low,none,No_Alcohol_Served,casual,none,open,f,familiar
+132733,1.2666666666666666,1.3,1.3,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132740,0.875,0.75,1.25,0.625,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,low,permitted,No_Alcohol_Served,informal,none,open,f,familiar
+132754,1.41025641025641,1.4615384615384615,1.4615384615384615,1.3076923076923077,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+132755,1.8,1.8,2.0,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,medium,none,No_Alcohol_Served,informal,variety,closed,f,familiar
+132766,0.7777777777777777,0.6666666666666666,1.0,0.6666666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,yes,medium,none,Wine-Beer,informal,none,closed,f,familiar
+132767,1.222222222222222,1.1666666666666667,1.3333333333333333,1.1666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,yes,medium,permitted,Wine-Beer,casual,variety,open,f,familiar
+132768,1.5666666666666664,1.6,1.7,1.4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,none,medium,not permitted,No_Alcohol_Served,casual,none,closed,t,familiar
+132773,1.5,1.5,1.25,1.75,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,none,low,permitted,Wine-Beer,informal,none,open,f,familiar
+132825,1.1875000000000002,1.28125,1.34375,0.9375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,low,none,No_Alcohol_Served,informal,none,open,f,familiar
+132834,1.0,1.0,1.12,0.88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,public,low,not permitted,No_Alcohol_Served,casual,none,closed,f,familiar
+132845,0.7333333333333334,0.8,0.6,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+132846,1.3333333333333337,1.4,1.4,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,none,low,permitted,No_Alcohol_Served,casual,none,open,f,familiar
+132851,1.1428571428571428,1.4285714285714286,1.0,1.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,low,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132854,1.388888888888889,1.3333333333333333,1.6666666666666667,1.1666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,yes,medium,none,Wine-Beer,informal,none,closed,f,familiar
+132856,0.9523809523809524,0.8571428571428571,1.1428571428571428,0.8571428571428571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,none,low,none,Wine-Beer,informal,none,closed,f,familiar
+132858,0.9333333333333332,0.8,1.4,0.6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,none,No_Alcohol_Served,informal,none,closed,f,familiar
+132861,1.476190476190476,1.4285714285714286,1.5714285714285714,1.4285714285714286,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132862,1.4074074074074074,1.3888888888888888,1.3888888888888888,1.4444444444444444,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,valet parking,high,none,Wine-Beer,casual,none,closed,f,familiar
+132866,1.4,1.4,1.4,1.4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132869,1.222222222222222,1.1666666666666667,1.3333333333333333,1.1666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132870,0.6666666666666666,0.6,1.0,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132872,1.0833333333333333,0.9166666666666666,1.1666666666666667,1.1666666666666667,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,public,medium,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+132875,1.1666666666666667,1.125,1.25,1.125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,valet parking,high,section,Wine-Beer,informal,Internet,open,t,familiar
+132885,0.5333333333333333,0.6,0.6,0.4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,public,low,none,No_Alcohol_Served,informal,none,closed,f,familiar
+132921,1.0784313725490196,1.2352941176470589,1.1176470588235294,0.8823529411764706,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,section,Wine-Beer,casual,none,open,f,quiet
+132922,1.7222222222222223,1.8333333333333333,1.5,1.8333333333333333,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,none,medium,permitted,No_Alcohol_Served,formal,none,closed,f,familiar
+132925,1.1333333333333333,1.0,1.2,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,not permitted,Wine-Beer,informal,none,closed,f,familiar
+132937,1.1666666666666667,1.5,1.0,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,section,Full_Bar,informal,variety,closed,f,quiet
+132951,0.9333333333333332,1.0,0.9,0.9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,low,not permitted,No_Alcohol_Served,casual,none,closed,f,familiar
+132954,0.8888888888888888,1.0,0.7777777777777778,0.8888888888888888,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+132955,1.8666666666666667,2.0,1.8,1.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,none,Wine-Beer,informal,variety,closed,t,familiar
+132958,1.5555555555555554,1.6666666666666667,1.5,1.5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,low,none,No_Alcohol_Served,informal,none,closed,t,quiet
+134983,1.0666666666666669,1.0,1.0,1.2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,high,section,Full_Bar,informal,none,closed,f,familiar
+135018,1.5833333333333333,1.5,1.75,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yes,medium,permitted,Full_Bar,informal,variety,open,f,familiar
+135021,1.037037037037037,1.3333333333333333,1.1111111111111112,0.6666666666666666,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,public,low,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+135025,1.577777777777778,1.6666666666666667,1.4666666666666666,1.6,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135027,1.0833333333333333,0.875,1.375,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,none,Wine-Beer,informal,none,closed,f,familiar
+135028,1.4,1.5333333333333334,1.4,1.2666666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,none,Wine-Beer,informal,none,closed,f,familiar
+135030,1.4444444444444444,1.5833333333333333,1.3333333333333333,1.4166666666666667,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,Internet,closed,f,quiet
+135032,1.1071428571428572,1.1785714285714286,1.0714285714285714,1.0714285714285714,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,public,medium,section,Wine-Beer,informal,none,closed,f,familiar
+135034,1.8666666666666667,2.0,2.0,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135035,1.5,1.5,1.5,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,yes,high,section,No_Alcohol_Served,informal,none,closed,f,familiar
+135039,1.1111111111111112,1.25,1.1666666666666667,0.9166666666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,yes,low,section,No_Alcohol_Served,informal,none,closed,f,familiar
+135041,1.1176470588235294,1.1764705882352942,1.1764705882352942,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,none,medium,none,Wine-Beer,informal,none,closed,f,familiar
+135042,1.2166666666666666,1.25,1.25,1.15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135043,1.037037037037037,0.8888888888888888,1.1111111111111112,1.1111111111111112,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135044,1.1666666666666667,1.25,1.25,1.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135046,1.121212121212121,1.2727272727272727,1.2727272727272727,0.8181818181818182,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,yes,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135048,1.2222222222222223,1.0,1.3333333333333333,1.3333333333333333,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,yes,high,none,Wine-Beer,informal,none,closed,f,familiar
+135049,0.8666666666666666,1.0,0.6,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135052,1.2,1.28,1.16,1.16,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,none,high,none,Full_Bar,informal,none,closed,f,familiar
+135053,0.9583333333333331,1.125,1.0,0.75,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,high,section,No_Alcohol_Served,informal,none,closed,f,familiar
+135054,0.9666666666666666,1.0,0.9,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,yes,high,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135055,1.7142857142857142,1.7142857142857142,1.7142857142857142,1.7142857142857142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yes,high,section,No_Alcohol_Served,informal,none,closed,f,familiar
+135057,1.3111111111111111,1.2666666666666666,1.3333333333333333,1.3333333333333333,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,section,Wine-Beer,informal,none,closed,f,familiar
+135058,1.037037037037037,1.1111111111111112,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,public,medium,none,No_Alcohol_Served,informal,none,closed,t,familiar
+135059,1.4814814814814816,1.6666666666666667,1.4444444444444444,1.3333333333333333,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,section,Wine-Beer,informal,none,closed,f,familiar
+135060,1.1515151515151516,1.1363636363636365,1.0454545454545454,1.2727272727272727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135069,0.5833333333333334,0.5,0.5,0.75,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,yes,low,none,Wine-Beer,informal,none,closed,f,familiar
+135071,0.8518518518518517,1.0,0.7777777777777778,0.7777777777777778,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,medium,section,Full_Bar,informal,none,closed,f,familiar
+135072,1.2916666666666667,1.25,1.375,1.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,none,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135073,1.3333333333333333,1.5,1.5,1.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,yes,high,section,Wine-Beer,informal,none,closed,f,familiar
+135074,1.75,1.75,1.75,1.75,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,public,high,section,Wine-Beer,informal,none,closed,f,familiar
+135075,1.6153846153846152,1.6923076923076923,1.6923076923076923,1.4615384615384615,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,yes,medium,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135079,1.0784313725490196,1.1764705882352942,1.1176470588235294,0.9411764705882353,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,none,high,none,No_Alcohol_Served,informal,none,closed,f,familiar
+135085,1.3240740740740742,1.3333333333333333,1.4722222222222223,1.1666666666666667,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,public,medium,not permitted,No_Alcohol_Served,informal,none,closed,f,familiar
+135086,0.7333333333333333,0.8,0.6,0.8,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,yes,medium,not permitted,No_Alcohol_Served,informal,none,closed,t,familiar
+135088,1.0555555555555556,1.0,1.1666666666666667,1.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,public,low,not permitted,No_Alcohol_Served,informal,none,closed,f,quiet
+135104,1.0476190476190474,0.8571428571428571,1.4285714285714286,0.8571428571428571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,yes,medium,not permitted,Full_Bar,informal,variety,closed,t,familiar
+135106,1.2,1.2,1.2,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,none,medium,only at bar,Wine-Beer,informal,none,open,f,familiar
+135109,1.0,1.0,1.25,0.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,none,medium,not permitted,Wine-Beer,informal,Internet,closed,f,quiet
